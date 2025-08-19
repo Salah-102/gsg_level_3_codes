@@ -26,7 +26,7 @@ int32_t main() {
         if (day == n) {
 
             for (int i = 0; i < n; i++) {
-                if (i != 0) cout << ' ';
+                if (i != 0) cout << ' ' ;
                 cout << path[i];
             }
             cout << '\n';
