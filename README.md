@@ -1,4 +1,4 @@
-This Repo made for GSG assinment
+This Repo is made for GSG assinment
 
 Name: Salah Dawabsheh
 
